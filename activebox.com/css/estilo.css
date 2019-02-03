@@ -1,9 +1,18 @@
 body{
 	font-family: 'Raleway', sans-serif;
 }
-header{background: url('../img/background_header.jpg') no-repeat; height: 405px;
+header{background: url('../img/background_logo.jpeg') no-repeat; height: 750px;
 	background-size: cover;}
+
 #logotipo{margin-top: 40px}
-header .nav{justify-content: flex-end;}
-header .nav-link{font-size: 13px; color: #fff; padding-top: 40px;}
-header .nav-link:hover{background: #fff; color: #31344e;}
+	header .nav{justify-content: flex-end;}
+	header .nav-link{font-size: 13px; color: #fff; padding-top: 40px;}
+	header .nav-link:hover{background: #fff; color: #31344e;}
+
+	header .section{justify-content: center;}
+	header .section {color: #fff; padding-top: 180px; padding-bottom: 36px; 
+		margin-left: 153px; margin-right: 168px; font-size: 65px;}
+	header .title {color: #fff; padding-bottom: 76px; margin-left: 133px; 
+		margin-right: 125px; font-size: 20px;}
+	header .btn{background-color: #e84545; color: #fff; padding: 18px 55px; margin-left: 330px;
+		font-size: 16px;}
